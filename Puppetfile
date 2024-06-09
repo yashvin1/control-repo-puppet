@@ -11,7 +11,9 @@ mod 'puppetlabs/haproxy',  '1.5.0'
 
 mod 'tomcat',
  :git => 'https://github.com/yashvin1/tomcat_puppet_rep.git'
+ :branch => 'main' 
 
 mod 'java',
-  :git => 'https://github.com/yashvin1/puppet-module-java.git'
+ :git => 'https://github.com/yashvin1/puppet-module-java.git'
+ :branch => 'main'
 
